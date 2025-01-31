@@ -1,1 +1,1 @@
-t is sample
+it is sample
